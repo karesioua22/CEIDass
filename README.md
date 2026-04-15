@@ -7,7 +7,7 @@ This digital assistant answers student queries regarding courses, professors, de
 
 ---
 
-## ⚠️ The Hardest Part: Data Preprocessing
+## ⚠️ The Hardest Part: Data Preprocessing (To be uploaded)
 
 The biggest challenge in building this project was the data preprocessing pipeline. The original data (course catalogs, department rules, etc.) was trapped in complex PDF formats.
 
